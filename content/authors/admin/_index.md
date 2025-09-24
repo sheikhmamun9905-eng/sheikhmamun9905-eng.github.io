@@ -6,8 +6,8 @@ title: Alex Johnson
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Mamun
+last_name: Sheikh
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior Team Leaader Ops BPO and Call center
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
